@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ML_Project
+Version: 0.0.0
+Summary: A small package for ML App
+Home-page: https://github.com/ZoroOp007/ML_Project
+Author: ZoroOp007
+Author-email: bkp825301@gmail.com
+Project-URL: Bug Tracker, https://github.com/ZoroOp007/ML_Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
